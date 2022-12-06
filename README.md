@@ -1,4 +1,5 @@
 # first_project
+Analizing the company's sales and conducting RFM segmentation.
 ## Project description.
 
 You work as a data analyst in an e-commerce company. Company's Product Manager asked you to analyze the purchases made on company's website and answer the following questions:
